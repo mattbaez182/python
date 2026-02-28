@@ -60,6 +60,8 @@ python/
 ├── requirements.txt
 └── README.md
 
+---
+
 📊 Roadmap de aprendizaje aplicado
 
 Fundamentos de Python ✅
@@ -70,6 +72,7 @@ Backend con APIs 🔜
 Integración Full Stack 🔜
 Analisis de datos 
 
+---
 
 🚀 Próximas mejoras
 
@@ -83,9 +86,11 @@ Implementar interfaz web o API
 
 Preparar despliegue en la nube
 
+---
+
 📌 Estado
 
-🟢 En desarrollo constante como parte de mi crecimiento profesional.
+🟢 En desarrollo constante como parte de mi crecimiento profesional. Actualmente en HTML-CSS-JavaScript
 
 👤 Autor
 
